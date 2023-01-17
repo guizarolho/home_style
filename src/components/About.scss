@@ -1,0 +1,21 @@
+$darkest-grey: #404040;
+
+.text-container {
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  position: relative;
+}
+
+.inner {
+  position: absolute;
+  max-height: 100%;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  color: dimgray;
+  transform: translate(-50%, -50%);
+  h1 {
+    color: $darkest-grey;
+  }
+}

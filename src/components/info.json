@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Square",
+    "thumbnail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse velit quam, varius sed finibus id, auctor viverra ipsum. In varius orci non ligula commodo auctor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi at molestie lacus. Quisque posuere libero eget orci ultricies, eu aliquam est."
+  },
+  {
+    "id": 2,
+    "title": "Triangle",
+    "thumbnail": "Donec luctus orci gravida aliquam lacinia. Cras semper elit in ex posuere viverra a vitae dui. Etiam non purus sed lorem suscipit porta. Curabitur imperdiet aliquam sagittis. Nam mi nisi, congue a dolor viverra, tempus malesuada nunc. Etiam diam velit, varius eget risus id, finibus tempus tortor. Proin at justo."
+  },
+  {
+    "id": 3,
+    "title": "Circle",
+    "thumbnail": "Vivamus sed orci quis lectus tempor elementum non efficitur magna. Proin et justo elementum, commodo odio eu, finibus diam. Maecenas sagittis maximus cursus. Integer metus metus, imperdiet id egestas eu, tempor at enim. Sed et tristique sem. Suspendisse potenti. Sed aliquam molestie rutrum. Suspendisse quis erat in elit placerat accumsan."
+  },
+  {
+    "id": 4,
+    "title": "Cross",
+    "thumbnail": "Etiam massa lorem, convallis a ornare vitae, venenatis faucibus risus. Nam eget arcu ipsum. Fusce sit amet tempus erat. Nullam auctor sagittis ipsum sed luctus. Nulla elementum lorem sapien, nec sagittis erat aliquam ut. Integer consequat faucibus nulla. Pellentesque euismod eget ex sit amet aliquet. Vestibulum pulvinar euismod elementum. Donec."
+  }
+]
